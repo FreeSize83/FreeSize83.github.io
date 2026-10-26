@@ -1,6 +1,1 @@
-{
-	"name": "Lampa",
-	"version": "latest",
-	"parameter": "content:{PREFIX}{domain}/msx/start.json",
-	"action": "link:{PREFIX}{domain}"
-}
+{"name": "Lampa", "version": "latest", "parameter": "content:https://freesize83.github.io/msx/start.json", "action": "link:https://freesize83.github.io"}
